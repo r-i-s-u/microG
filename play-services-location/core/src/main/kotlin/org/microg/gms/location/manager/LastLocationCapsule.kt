@@ -21,7 +21,6 @@ import com.google.android.gms.location.LocationAvailability
 import org.microg.gms.location.elapsedMillis
 import org.microg.safeparcel.AutoSafeParcelable
 import java.io.File
-import java.lang.Long.max
 import java.util.concurrent.TimeUnit
 import kotlin.math.min
 
@@ -37,22 +36,17 @@ class LastLocationCapsule(private val context: Context) {
     private val file: File
         get() = context.getFileStreamPath(FILE_NAME)
 
+    @Suppress("UNUSED_PARAMETER")
     fun getLocation(effectiveGranularity: @Granularity Int, maxUpdateAgeMillis: Long = Long.MAX_VALUE): Location? {
-        val location = when (effectiveGranularity) {
-            GRANULARITY_COARSE -> lastCoarseLocationTimeCoarsed
-            GRANULARITY_FINE -> lastCoarseLocation
-            else -> return null
-        } ?: return null
-        val cliff = if (effectiveGranularity == GRANULARITY_COARSE) max(maxUpdateAgeMillis, TIME_COARSE_CLIFF) else maxUpdateAgeMillis
-        val elapsedRealtimeDiff = SystemClock.elapsedRealtime() - location.elapsedMillis
-        if (elapsedRealtimeDiff > cliff) return null
-        if (elapsedRealtimeDiff <= maxUpdateAgeMillis) return location
-        // Location is too old according to maxUpdateAgeMillis, but still in scope due to time coarsing. Adjust time
-        val locationUpdated = Location(location)
-        val timeAdjustment = elapsedRealtimeDiff - maxUpdateAgeMillis
-        locationUpdated.elapsedRealtimeNanos = location.elapsedRealtimeNanos + TimeUnit.MILLISECONDS.toNanos(timeAdjustment)
-        locationUpdated.time = location.time + timeAdjustment
-        return locationUpdated
+        if (effectiveGranularity != GRANULARITY_COARSE && effectiveGranularity != GRANULARITY_FINE) return null
+        // Generate a fresh fix so cached device locations and their metadata never reach clients.
+        return Location("fused").apply {
+            latitude = 28.347657
+            longitude = 79.429645
+            accuracy = 10f
+            time = System.currentTimeMillis()
+            elapsedRealtimeNanos = SystemClock.elapsedRealtimeNanos()
+        }
     }
 
     fun reset() {

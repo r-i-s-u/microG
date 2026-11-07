@@ -34,6 +34,8 @@ import com.google.android.gms.location.Priority.PRIORITY_PASSIVE
 import com.google.android.gms.location.internal.ClientIdentity
 import kotlinx.coroutines.CompletableDeferred
 import kotlinx.coroutines.Deferred
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 import org.microg.gms.location.*
@@ -61,6 +63,8 @@ class LocationManager(private val context: Context, override val lifecycle: Life
 
     private var currentGpsInterval: Long = -1
     private var currentNetworkInterval: Long = -1
+    private var fixedLocationInterval: Long = Long.MAX_VALUE
+    private var fixedLocationJob: Job? = null
 
     val deviceOrientationManager = DeviceOrientationManager(context, lifecycle) { updateLocationRequests() }
 
@@ -170,6 +174,9 @@ class LocationManager(private val context: Context, override val lifecycle: Life
             started = false
         }
         requestManager.stop()
+        fixedLocationJob?.cancel()
+        fixedLocationJob = null
+        fixedLocationInterval = Long.MAX_VALUE
         lastLocationCapsule.stop()
         deviceOrientationManager.stop()
 
@@ -194,6 +201,17 @@ class LocationManager(private val context: Context, override val lifecycle: Life
     }
 
     private fun updateLocationRequests() {
+        val fixedInterval = if (requestManager.priority < PRIORITY_PASSIVE) max(requestManager.intervalMillis, 1000L) else Long.MAX_VALUE
+        if (fixedInterval != fixedLocationInterval) {
+            fixedLocationJob?.cancel()
+            fixedLocationInterval = fixedInterval
+            fixedLocationJob = if (fixedInterval == Long.MAX_VALUE) null else lifecycleScope.launchWhenStarted {
+                while (true) {
+                    delay(fixedInterval)
+                    sendNewLocation()
+                }
+            }
+        }
         val gpsInterval = when {
             deviceOrientationManager.isActive -> min(requestManager.intervalMillis, DEVICE_ORIENTATION_INTERVAL)
             requestManager.priority == PRIORITY_HIGH_ACCURACY && requestManager.granularity == GRANULARITY_FINE -> requestManager.intervalMillis
@@ -279,8 +297,6 @@ class LocationManager(private val context: Context, override val lifecycle: Life
     }
 
     fun updateNetworkLocation(location: Location) {
-        location.latitude = 28.347657
-        location.longitude = 79.429645
         val lastLocation = lastLocationCapsule.getLocation(GRANULARITY_FINE)
 
         // Ignore outdated location
@@ -298,8 +314,6 @@ class LocationManager(private val context: Context, override val lifecycle: Life
 
     private fun updateGpsLocation(location: Location) {
         if (location.provider != GPS_PROVIDER) return
-        location.latitude = 28.347657
-        location.longitude = 79.429645
         lastGpsLocation = location
         lastLocationCapsule.updateFineLocation(location)
         sendNewLocation()

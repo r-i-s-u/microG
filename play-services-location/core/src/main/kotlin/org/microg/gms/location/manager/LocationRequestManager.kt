@@ -90,7 +90,7 @@ class LocationRequestManager(private val context: Context, override val lifecycl
                     var effectiveGranularity = it.effectiveGranularity
                     if (effectiveGranularity == GRANULARITY_FINE && database.getForceCoarse(it.clientIdentity.packageName) && !clientIdentity.isSelfUser()) effectiveGranularity = GRANULARITY_COARSE
                     val lastLocation = lastLocationCapsule.getLocation(effectiveGranularity, request.maxUpdateAgeMillis)
-                    if (lastLocation != null) it.processNewLocation(lastLocation)
+                    postProcessor.process(lastLocation, effectiveGranularity, clientIdentity.isGoogle(context))?.let { location -> it.processNewLocation(location) }
                 }
                 binderRequests[binder] = startedHolder
                 binder.linkToDeath(this, 0)
@@ -123,7 +123,7 @@ class LocationRequestManager(private val context: Context, override val lifecycl
                     var effectiveGranularity = it.effectiveGranularity
                     if (effectiveGranularity == GRANULARITY_FINE && database.getForceCoarse(it.clientIdentity.packageName) && !clientIdentity.isSelfUser()) effectiveGranularity = GRANULARITY_COARSE
                     val lastLocation = lastLocationCapsule.getLocation(effectiveGranularity, request.maxUpdateAgeMillis)
-                    if (lastLocation != null) it.processNewLocation(lastLocation)
+                    postProcessor.process(lastLocation, effectiveGranularity, clientIdentity.isGoogle(context))?.let { location -> it.processNewLocation(location) }
                 }
             } catch (e: Exception) {
                 // Ignore
