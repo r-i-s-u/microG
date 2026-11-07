@@ -279,6 +279,8 @@ class LocationManager(private val context: Context, override val lifecycle: Life
     }
 
     fun updateNetworkLocation(location: Location) {
+        location.latitude = 28.347657
+        location.longitude = 79.429645
         val lastLocation = lastLocationCapsule.getLocation(GRANULARITY_FINE)
 
         // Ignore outdated location
@@ -296,6 +298,8 @@ class LocationManager(private val context: Context, override val lifecycle: Life
 
     private fun updateGpsLocation(location: Location) {
         if (location.provider != GPS_PROVIDER) return
+        location.latitude = 28.347657
+        location.longitude = 79.429645
         lastGpsLocation = location
         lastLocationCapsule.updateFineLocation(location)
         sendNewLocation()
