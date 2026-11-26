@@ -179,7 +179,7 @@
     <string name="pref_gcm_enable_mcs_summary">云消息传递是许多第三方应用使用的推送通知提供商。要使用它，您必须启用设备注册。</string>
     <string name="pref_gcm_confirm_new_apps_title">确认新应用</string>
     <string name="pref_gcm_confirm_new_apps_summary">在注册新应用以接收推送通知之前，请求确认</string>
-    <string name="pref_about_title">关于 MicroG RE</string>
+    <string name="pref_about_title">关于 microG</string>
     <string name="pref_hide_launcher_icon">隐藏在启动器中的图标</string>
     <string name="hide_launcher_icon_dialog_message">如果启用，MicroG 将从您的应用程序启动器中隐藏。您可以在设备系统应用列表中的应用信息中找到并打开 MicroG。</string>
     <string name="hide_launcher_icon_updating_title">正在更新应用程序，请稍候</string>
@@ -476,7 +476,7 @@
     <string name="self_check_resolution_notifications">点击此处打开通知设置。启用通知以在启用电池优化时保持 GcmService 在后台运行</string>
     <string name="self_check_name_oem_restriction">系统可能会限制后台进程。点击此处打开“Don’t Kill My App!”网站，了解如何禁用这些限制</string>
     <string name="self_check_resolution_oem_restriction">您的系统可能限制后台进程。点击此处打开“Don\'t Kill My App!”网站，了解如何禁用这些限制</string>
-    <string name="morphe_sign_in_with_google_microg_label">通过 MicroG RE 使用 Google 登录</string>
+    <string name="morphe_sign_in_with_google_microg_label">通过 microG 使用 Google 登录</string>
     <string name="self_check_patched_app_installed">使用 %1$s 运行</string>
     <string name="self_check_action_download_morphe">下载 Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

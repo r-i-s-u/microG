@@ -179,7 +179,7 @@
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging — гэта пастаўшчык push-апавешчанняў, які выкарыстоўваецца многімі староннімі праграмамі. Каб карыстацца ім, вы павінны ўключаць рэгістрацыю прылады.</string>
     <string name="pref_gcm_confirm_new_apps_title">Падтверджаць новыя прыкладанні</string>
     <string name="pref_gcm_confirm_new_apps_summary">Запытваць паданне перад рэгістрацыяй новага прыкладання для атрымання push-апавешчэнняў</string>
-    <string name="pref_about_title">Пра MicroG RE</string>
+    <string name="pref_about_title">Пра microG</string>
     <string name="pref_hide_launcher_icon">Схаваць значок у ланчары</string>
     <string name="hide_launcher_icon_dialog_message">Калі гэтую функцыю ўключаць, MicroG будзе схаваны ў запусціль праграм. MicroG можна адкрыць праз інфармацыю пра праграму ў спісе сістэмных праграм вашай прылады.</string>
     <string name="hide_launcher_icon_updating_title">Калі ласка, пачакайце, пакуль праграма абнаўляецца</string>
@@ -476,7 +476,7 @@
     <string name="self_check_resolution_notifications">Націсніце тут, каб адкрыць налады паведамленняў. Паведамленні выкарыстоўваюцца для таго, каб GcmService працягваў працаць у фоне, калі ўключана аптымізацыя зарада або за іншых умоваў</string>
     <string name="self_check_name_oem_restriction">Абмежаванні фонавых працэсаў</string>
     <string name="self_check_resolution_oem_restriction">Ваша сістэма можа абмяжоўваць фоновыя працэсы. Націсніце тут, каб адкрыць сайт Don\'t Kill My App! і даведацца, як адхіліць гэтыя абмежаванні</string>
-    <string name="morphe_sign_in_with_google_microg_label">Увайсці праз Google праз MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Увайсці праз Google праз microG</string>
     <string name="self_check_patched_app_installed">Праца з %1$s</string>
     <string name="self_check_action_download_morphe">Спампаваць Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

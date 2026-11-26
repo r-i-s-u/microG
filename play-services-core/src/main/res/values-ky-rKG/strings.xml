@@ -372,7 +372,7 @@
     <string name="pref_passkey_manager_transport_hybrid">Гибрид</string>
     <string name="pref_passkey_manager_credential_id_format_internal">ID: %1$s</string>
     <string name="self_check_resolution_oem_restriction">Сиздин системаңыз фондук процесстерди чектеши мүмкүн. Бул чектөөлөрдү кантип өчүрүүнү билүү үчүн бул жерди басып, Don\'t Kill My App! сайтына өтүңүз</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE аркылуу Google менен кирүү</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG аркылуу Google менен кирүү</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->
     <string name="abi_mismatch_title">Туура эмес архитектуралык вариант орнотулган</string>
     <string name="abi_mismatch_message">"Бул MicroG-RE версиясы 64-биттүү (arm64) китепканаларды гана камтыйт, бирок бул түзүлүштө 32-биттүү колдонуучу мейкиндиги иштейт.

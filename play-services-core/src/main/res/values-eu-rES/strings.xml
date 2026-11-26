@@ -178,7 +178,7 @@ Kontuaren konfigurazioa amaitu ondoren, Google-en gailu-erregistroa desaktibaezu
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging aplikazio hirugarren parteko askok erabiltzen duten push jakinarazpen proveedor bat da. Hura erabiltzeko, gailu erregistroa aktibatu behar duzu.</string>
     <string name="pref_gcm_confirm_new_apps_title">Berrestatu aplikazio berriak</string>
     <string name="pref_gcm_confirm_new_apps_summary">Galdetu push jakinarazpenak jasotzeko aplikazio berri bat erregistratu aurretik</string>
-    <string name="pref_about_title">MicroG RE לגanez</string>
+    <string name="pref_about_title">microG לגanez</string>
     <string name="pref_hide_launcher_icon">Ezkutatu ikona abiarazlean</string>
     <string name="hide_launcher_icon_dialog_message">Aktibatuta badago, MicroG ezkutuko da zure aplikazioen abiatzailean. MicroG zure gailuko sistema-aplikazioen zerrendan dagoen aplikazio-informazioatik ireki daiteke.</string>
     <string name="hide_launcher_icon_updating_title">Itxaron beharrezkoa aplikazioa eguneratzen ari den bitartean</string>

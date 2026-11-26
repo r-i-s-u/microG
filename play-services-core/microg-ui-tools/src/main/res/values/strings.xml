@@ -44,7 +44,7 @@
     <string name="about_android_support_license" translatable="false">Apache License 2.0, The Android Open Source Project</string>
     <!--Settings About-->
 
-    <string name="about_microg_re" translatable="false">MicroG RE</string>
+    <string name="about_microg_re" translatable="false">microG</string>
     <string name="about_morphe" translatable="false">Morphe</string>
     <string name="about_morphe_description">Morphe is an open-source project designed to modify Android apps through patches</string>
 

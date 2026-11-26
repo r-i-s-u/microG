@@ -179,7 +179,7 @@ Please set up a password, PIN, or pattern lock screen."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging is a push notification provider used by many third-party applications. To use it you must enable device registration.</string>
     <string name="pref_gcm_confirm_new_apps_title">Bekräfta nya appar</string>
     <string name="pref_gcm_confirm_new_apps_summary">Fråga innan en ny app registreras för att ta emot pushmeddelanden</string>
-    <string name="pref_about_title">Om MicroG RE</string>
+    <string name="pref_about_title">Om microG</string>
     <string name="pref_hide_launcher_icon">Dölj ikonen i startprogrammet</string>
     <string name="hide_launcher_icon_dialog_message">Om det är aktiverat kommer MicroG att döljas i applanseraren. MicroG kan öppnas från appinformationen i enhetens lista över systemappar.</string>
     <string name="hide_launcher_icon_updating_title">Vänta medan appen uppdateras</string>
@@ -476,7 +476,7 @@ Vissa appar kanske inte kan registrera sig igen efter denna åtgärd. Du kan beh
     <string name="self_check_resolution_notifications">Tryck här för att öppna aviseringsinställningarna. Aviseringar används för att hålla GcmService igång i bakgrunden när batterioptimering är aktiverad eller under andra omständigheter</string>
     <string name="self_check_name_oem_restriction">Begränsningar för bakgrundsprocesser</string>
     <string name="self_check_resolution_oem_restriction">Your system may restrict background processes. Tap here to open Don\'t Kill My App! site and learn how to disable these restrictions</string>
-    <string name="morphe_sign_in_with_google_microg_label">Logga in med Google via MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Logga in med Google via microG</string>
     <string name="self_check_patched_app_installed">Körs med %1$s</string>
     <string name="self_check_action_download_morphe">Ladda ned Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

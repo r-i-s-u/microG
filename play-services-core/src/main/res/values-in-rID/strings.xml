@@ -179,7 +179,7 @@ Silakan atur kata sandi, PIN, atau pola kunci layar."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging adalah penyedia notifikasi push yang digunakan oleh banyak aplikasi pihak ketiga. Untuk menggunakannya, Anda harus mengaktifkan pendaftaran perangkat.</string>
     <string name="pref_gcm_confirm_new_apps_title">Konfirmasi aplikasi baru</string>
     <string name="pref_gcm_confirm_new_apps_summary">Tanya sebelum mendaftarkan aplikasi baru untuk menerima notifikasi dorong</string>
-    <string name="pref_about_title">Tentang MicroG RE</string>
+    <string name="pref_about_title">Tentang microG</string>
     <string name="pref_hide_launcher_icon">Sembunyikan ikon di peluncur</string>
     <string name="hide_launcher_icon_dialog_message">Jika diaktifkan, MicroG akan disembunyikan di peluncur aplikasi Anda. MicroG dapat dibuka dari info aplikasi yang ada di daftar aplikasi sistem perangkat Anda.</string>
     <string name="hide_launcher_icon_updating_title">Mohon tunggu sementara aplikasi diperbarui</string>
@@ -476,7 +476,7 @@ Beberapa aplikasi mungkin tidak dapat mendaftar lagi setelah melakukan ini. Anda
     <string name="self_check_resolution_notifications">Ketuk di sini untuk membuka setelan notifikasi. Notifikasi digunakan untuk menjaga GcmService berjalan di latar belakang ketika optimasi baterai diaktifkan atau dalam keadaan lain</string>
     <string name="self_check_name_oem_restriction">Batasi proses latar belakang</string>
     <string name="self_check_resolution_oem_restriction">Sistem Anda mungkin membatasi proses latar belakang. Klik di sini untuk membuka situs Don’t Kill My App! dan mempelajari bagaimana menonaktifkan batasan ini</string>
-    <string name="morphe_sign_in_with_google_microg_label">Masuk dengan Google melalui MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Masuk dengan Google melalui microG</string>
     <string name="self_check_patched_app_installed">Berjalan dengan %1$s</string>
     <string name="self_check_action_download_morphe">Unduh Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

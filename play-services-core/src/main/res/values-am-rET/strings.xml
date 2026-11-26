@@ -178,7 +178,7 @@
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging በብዙ የሶስተኛ ወገን አፕሊኬሽኖች ጥቅም ላይ የሚውል የpush notification አቅራቢ ነው። እሱን ለመጠቀም የመሣሪያ ምዝገባን ማብራት አለብዎት።</string>
     <string name="pref_gcm_confirm_new_apps_title">አዳዲስ መተግበሪያዎችን ያረጋግጡ</string>
     <string name="pref_gcm_confirm_new_apps_summary">ፑሽ ማሳወቂያዎችን ለመቀበል አዲስ መተግበሪያ ከመመዝገቡ በፊት ይጠይቁ</string>
-    <string name="pref_about_title">ስለ MicroG RE</string>
+    <string name="pref_about_title">ስለ microG</string>
     <string name="pref_hide_launcher_icon">አዶውን በላውንቸር ውስጥ ደብቅ</string>
     <string name="hide_launcher_icon_dialog_message">ካበሩት MicroG በመተግበሪያ ማስጀመሪያው ውስጥ አይታይም። MicroGን በየመሣሪያዎ ሲስተም መተግበሪያ ዝርዝር ውስጥ በሚገኘው የመተግበሪያ መረጃ ውስጥ መክፈት ይችላሉ።</string>
     <string name="hide_launcher_icon_updating_title">መተግበሪያው እስኪሻሻል እባክዎ ይጠብቁ</string>
@@ -475,7 +475,7 @@
     <string name="self_check_resolution_notifications">የማሳወቂያ ቅንብሮችን ለመክፈት እዚህ ይንኩ። የባትሪ ማመቻቻ በሚበራበት ጊዜ ወይም በሌሎች ሁኔታዎች GcmService በጀርባ እንዲሰራ ለማድረግ ማሳወቂያዎች ያገለግላሉ</string>
     <string name="self_check_name_oem_restriction">የጀርባ ሂደት ገደቦች</string>
     <string name="self_check_resolution_oem_restriction">የስርዓትዎ አቀማመጥ የጀርባ ሂደቶችን ሊገድብ ይችላል። እነዚህን ገደቦች እንዴት ማጥፋት እንደሚችሉ ለማወቅ Don\'t Kill My App! ሳይትን ለመክፈት እዚህ ይንኩ</string>
-    <string name="morphe_sign_in_with_google_microg_label">በ MicroG RE አማካኝነት በ Google ይግቡ</string>
+    <string name="morphe_sign_in_with_google_microg_label">በ microG አማካኝነት በ Google ይግቡ</string>
     <string name="self_check_patched_app_installed">በ%1$s እየሰራ ነው</string>
     <string name="self_check_action_download_morphe">Morpheን ያውርዱ</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

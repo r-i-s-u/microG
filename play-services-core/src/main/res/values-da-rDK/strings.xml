@@ -179,7 +179,7 @@ Indstil venligst en adgangskode, pinkode eller mønsterlås."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging er en udbyder af push-beskeder, der bruges af mange tredjepartsapplikationer. For at bruge det skal du aktivere enhedsregistrering.</string>
     <string name="pref_gcm_confirm_new_apps_title">Bekræft nye apps</string>
     <string name="pref_gcm_confirm_new_apps_summary">Spørg før registrering af en ny app til at modtage push-notifikationer</string>
-    <string name="pref_about_title">Om MicroG RE</string>
+    <string name="pref_about_title">Om microG</string>
     <string name="pref_hide_launcher_icon">Skjul ikon i launcher</string>
     <string name="hide_launcher_icon_dialog_message">Hvis det er aktiveret, skjules MicroG i din app-launcher. MicroG kan åbnes fra app-oplysningerne i din enheds systemliste over apps.</string>
     <string name="hide_launcher_icon_updating_title">Vent venligst, mens appen opdateres</string>
@@ -476,7 +476,7 @@ Nogle apps kan måske ikke registreres igen efter denne handling. Du skal måske
     <string name="self_check_resolution_notifications">Tryk her for at åbne notifikationsindstillinger. Notifikationer bruges til at holde GcmService kørende i baggrunden, når batterioptimering er aktiveret eller under andre betingelser</string>
     <string name="self_check_name_oem_restriction">Baggrundsprocesrestriktioner</string>
     <string name="self_check_resolution_oem_restriction">Dit system kan begrænse baggrundsprocesser. Tryk her for at åbne Don\'t Kill My App!-webstedet og få at vide, hvordan du deaktiverer disse begrænsninger</string>
-    <string name="morphe_sign_in_with_google_microg_label">Log ind med Google via MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Log ind med Google via microG</string>
     <string name="self_check_patched_app_installed">Kører med %1$s</string>
     <string name="self_check_action_download_morphe">Hent Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

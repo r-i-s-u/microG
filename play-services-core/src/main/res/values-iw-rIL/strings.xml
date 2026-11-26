@@ -179,7 +179,7 @@
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging הוא ספק הודעות push שבו משתמשות יישומים many. כדי להשתמש בו, עליך להפעיל רישום מכשיר.</string>
     <string name="pref_gcm_confirm_new_apps_title">אישור אפליקציות חדשות</string>
     <string name="pref_gcm_confirm_new_apps_summary">שאלה לפני רישום אפליקציה חדשה להודעות דחיפה</string>
-    <string name="pref_about_title">אודות MicroG RE</string>
+    <string name="pref_about_title">אודות microG</string>
     <string name="pref_hide_launcher_icon">הסתר סמל במשגר</string>
     <string name="hide_launcher_icon_dialog_message">אם מופעל, MicroG יוסתר במפעיל האפליקציות. ניתן לפתוח את MicroG ממידע האפליקציה שנמצא ברשימת אפליקציות המערכת של המכשיר.</string>
     <string name="hide_launcher_icon_updating_title">אנא המתן בזמן שהאפליקציה מתעדכנת</string>
@@ -482,7 +482,7 @@
 התראות משמשות כדי לשמור על GcmService פועל ברקע כאשר אופטימיזציית הסוללה מופעלת או בתנאים אחרים</string>
     <string name="self_check_name_oem_restriction">הגבלות תהליכי רקע</string>
     <string name="self_check_resolution_oem_restriction">המערכת שלך עשוי stacking processes. לחץ על לתאם כדי על את האתר? Don\'t Kill My כדי?App? site to...</string>
-    <string name="morphe_sign_in_with_google_microg_label">התחבר עם Google באמצעות MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">התחבר עם Google באמצעות microG</string>
     <string name="self_check_patched_app_installed">רץ עם %1$s</string>
     <string name="self_check_action_download_morphe">הורד Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

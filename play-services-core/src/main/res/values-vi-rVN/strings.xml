@@ -167,7 +167,7 @@ Vui lòng thiết lập mật khẩu, mã PIN hoặc khóa màn hình bằng m�
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging là nhà cung cấp thông báo đẩy được sử dụng bởi nhiều ứng dụng bên thứ ba. Để sử dụng, bạn phải bật đăng ký thiết bị.</string>
     <string name="pref_gcm_confirm_new_apps_title">Xác nhận ứng dụng mới</string>
     <string name="pref_gcm_confirm_new_apps_summary">Hỏi trước khi cho phép ứng dụng nhận thông báo đẩy</string>
-    <string name="pref_about_title">Giới thiệu về microG RE</string>
+    <string name="pref_about_title">Giới thiệu về microG</string>
     <string name="pref_hide_launcher_icon">Ẩn ứng dụng</string>
     <string name="hide_launcher_icon_dialog_message">Nếu bật, MicroG sẽ bị ẩn trong trình khởi chạy ứng dụng của bạn. MicroG có thể được mở từ thông tin ứng dụng trong danh sách ứng dụng hệ thống trên thiết bị của bạn.</string>
     <string name="hide_launcher_icon_updating_title">Vui lòng đợi trong khi ứng dụng đang được cập nhật</string>
@@ -464,7 +464,7 @@ Một số ứng dụng có thể không đăng ký lại được và sẽ cầ
     <string name="self_check_resolution_notifications">Bấm vào đây để mở cài đặt thông báo. Bật thông báo để giữ cho GcmService chạy trong nền khi bật tối ưu hóa hoặc tương tự</string>
     <string name="self_check_name_oem_restriction">Hạn chế hoạt động nền</string>
     <string name="self_check_resolution_oem_restriction">Hệ thống của bạn có thể hạn chế các tiến trình nền. Chạm vào đây để mở trang Don\'t Kill My App! và tìm hiểu cách tắt các hạn chế này</string>
-    <string name="morphe_sign_in_with_google_microg_label">Đăng nhập bằng Google qua MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Đăng nhập bằng Google qua microG</string>
     <string name="self_check_patched_app_installed">Chạy với %1$s</string>
     <string name="self_check_action_download_morphe">Tải Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

@@ -180,7 +180,7 @@
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging-ը push ծանուցումների մատակարար է, որն օգտագործվում է բազմ sayıda երրորդ կողմի հավելվածների կողմից: Այն օգտագործելու համար դուք պետք է միացնեք սարքի գրանցումը:</string>
     <string name="pref_gcm_confirm_new_apps_title">Հաստատել նոր հավելվածները</string>
     <string name="pref_gcm_confirm_new_apps_summary">Հարցնել նախքան push ծանուցումներ ստանալու համար նոր հավելված գրանցելը</string>
-    <string name="pref_about_title">MicroG RE-ի մասին</string>
+    <string name="pref_about_title">microG-ի մասին</string>
     <string name="pref_hide_launcher_icon">Թաքցնել սիկոնը գործարկիչում</string>
     <string name="hide_launcher_icon_dialog_message">Եթե ակտիվացվի, MicroG-ն կթաքցվի ձեր հավելվածների ցանկում: MicroG-ն կարելի է բացել սարքի համակարգային հավելվածների ցանկում գտնվող հավելվածի տեղեկությունների բաժնից:</string>
     <string name="hide_launcher_icon_updating_title">Խնդրում ենք սպասել, մինչ հավելվածը թարմացվի</string>
@@ -481,7 +481,7 @@
     <string name="self_check_resolution_notifications">Հպեք այստեղ՝ ծանուցումների կարգավորումները բացելու համար: Ծանուցումները օգտագործվում են GcmService-ը ֆոնային ռեժիմում պահպանելու համար, երբ միացված է մարտկոցի օպտիմալացումը կամ այլ պայմաններում</string>
     <string name="self_check_name_oem_restriction">Ֆոնային գործընթացների սահմանափակումներ</string>
     <string name="self_check_resolution_oem_restriction">Ձեր համակարգը կարող է սահմանափակել ֆոնային գործընթացները: Հպեք այստեղ՝ Don\'t Kill My App! կայքը բացելու և իմանալու, թե ինչպես անջատել այդ սահմանափակումները</string>
-    <string name="morphe_sign_in_with_google_microg_label">Մուտք գործեք Google հաշվով MicroG RE-ի միջոցով</string>
+    <string name="morphe_sign_in_with_google_microg_label">Մուտք գործեք Google հաշվով microG-ի միջոցով</string>
     <string name="self_check_patched_app_installed">Աշխատում է %1$s-ով</string>
     <string name="self_check_action_download_morphe">Ներբեռնել Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

@@ -179,7 +179,7 @@ Imposta una password, un PIN o un blocco schermo con schema."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging è un fornitore di notifiche push utilizzato da molte applicazioni di terze parti. Per utilizzarlo, devi abilitare la registrazione del dispositivo.</string>
     <string name="pref_gcm_confirm_new_apps_title">Conferma le nuove app</string>
     <string name="pref_gcm_confirm_new_apps_summary">Chiedi prima di registrare una nuova app per ricevere le notifiche push</string>
-    <string name="pref_about_title">Informazioni su MicroG RE</string>
+    <string name="pref_about_title">Informazioni su microG</string>
     <string name="pref_hide_launcher_icon">Nascondi icona nel launcher</string>
     <string name="hide_launcher_icon_dialog_message">Se abilitato, MicroG sarà nascosto nel launcher delle app. MicroG può essere aperto dalle informazioni dell\'app presenti nell\'elenco delle app di sistema del dispositivo.</string>
     <string name="hide_launcher_icon_updating_title">Attendere mentre l\'app viene aggiornata</string>
@@ -476,7 +476,7 @@ Alcune app potrebbero non essere in grado di registrarsi nuovamente dopo questa 
     <string name="self_check_resolution_notifications">Fai clic qui per aprire le impostazioni delle notifiche. Le notifiche sono utilizzate per mantenere GcmService in esecuzione in background quando l\'ottimizzazione della batteria è abilitata o in altre condizioni</string>
     <string name="self_check_name_oem_restriction">Restrizioni dei processi in background</string>
     <string name="self_check_resolution_oem_restriction">Il tuo sistema potrebbe limitare i processi in background. Tocca qui per aprire il sito Don\'t Kill My App! e scopri come disabilitare queste restrizioni</string>
-    <string name="morphe_sign_in_with_google_microg_label">Accedi con Google tramite MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Accedi con Google tramite microG</string>
     <string name="self_check_patched_app_installed">In esecuzione con %1$s</string>
     <string name="self_check_action_download_morphe">Scarica Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

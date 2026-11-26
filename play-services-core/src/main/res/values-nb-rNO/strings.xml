@@ -179,7 +179,7 @@ Vennligst sett opp et passord, en PIN-kode eller et mønsterlås."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging er en push-varsel-leverandør som brukes av mange tredjepartsapplikasjoner. For å bruke det må du aktivere enhetsregistrering.</string>
     <string name="pref_gcm_confirm_new_apps_title">Bekreft nye apper</string>
     <string name="pref_gcm_confirm_new_apps_summary">Spør før en ny app registreres for å motta push-varsler</string>
-    <string name="pref_about_title">Om MicroG RE</string>
+    <string name="pref_about_title">Om microG</string>
     <string name="pref_hide_launcher_icon">Skjul ikonet i programvelgeren</string>
     <string name="hide_launcher_icon_dialog_message">Hvis det er aktivert, vil MicroG skjules i appstarteren din. MicroG kan åpnes fra appinformasjonen i systemapplisten på enheten.</string>
     <string name="hide_launcher_icon_updating_title">Vent litt mens appen oppdateres</string>
@@ -480,7 +480,7 @@ Noen apper kan kanskje ikke registrere seg på nytt etter denne handlingen. Du m
     <string name="self_check_resolution_notifications">Trykk her for å åpne innstillinger for varsler. Varsler brukes til å holde GcmService i gang i bakgrunnen når batterioptimalisering er aktivert eller under andre forhold.</string>
     <string name="self_check_name_oem_restriction">Begrensninger for bakgrunnsprosesser</string>
     <string name="self_check_resolution_oem_restriction">Systemet ditt kan begrense bakgrunnsprosesser. Trykk her for å åpne Don\'t Kill My App!-nettstedet og lære hvordan du deaktiverer disse begrensningene</string>
-    <string name="morphe_sign_in_with_google_microg_label">Logg inn med Google via MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Logg inn med Google via microG</string>
     <string name="self_check_patched_app_installed">Kjører med %1$s</string>
     <string name="self_check_action_download_morphe">Last ned Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

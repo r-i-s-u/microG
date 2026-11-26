@@ -179,7 +179,7 @@ Nastavite geslo, PIN ali vzorec za zaklepanje zaslona."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging je ponudnik potisnih obvestil, ki ga uporabljajo številne tretje aplikacije. Za njegovo uporabo morate omogočiti registracijo naprave.</string>
     <string name="pref_gcm_confirm_new_apps_title">Potrdite nove aplikacije</string>
     <string name="pref_gcm_confirm_new_apps_summary">Vprašaj pred registracijo nove aplikacije za prejem potisnih obvestil</string>
-    <string name="pref_about_title">O programu MicroG RE</string>
+    <string name="pref_about_title">O programu microG</string>
     <string name="pref_hide_launcher_icon">Skrij ikono v lanserju</string>
     <string name="hide_launcher_icon_dialog_message">Če je omogočeno, bo MicroG skrit v zaganjalniku aplikacij. MicroG lahko odprete iz podatkov o aplikaciji, ki jih najdete na seznamu sistemskih aplikacij v vaši napravi.</string>
     <string name="hide_launcher_icon_updating_title">Počakajte, da se aplikacija posodobi</string>
@@ -477,7 +477,7 @@ Nekatere aplikacije se morda ne bodo mogle ponovno registrirati po tej akciji. P
     <string name="self_check_resolution_notifications">Kliknite tukaj, da odprete nastavitve obvestil. Obvestila se uporabljajo za ohranjanje GcmService v ozadju, ko je vključena optimizacija baterije ali v drugih pogojih</string>
     <string name="self_check_name_oem_restriction">Omejitve procesov v ozadju</string>
     <string name="self_check_resolution_oem_restriction">Vaš sistem lahko omejuje ozadnje procese. Tapnite tukaj, da odprete spletno mesto Don\'t Kill My App! in se naučite, kako onemogočiti te omejitve</string>
-    <string name="morphe_sign_in_with_google_microg_label">Prijava z Googlom prek MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Prijava z Googlom prek microG</string>
     <string name="self_check_patched_app_installed">Deluje z %1$s</string>
     <string name="self_check_action_download_morphe">Prenesi Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

@@ -12,7 +12,7 @@
 </p>
 &nbsp;
 
-# ⚙️ MicroG RE (GmsCore Redesign)
+# ⚙️ microG (GmsCore Redesign)
 
 microG Services is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available.
 

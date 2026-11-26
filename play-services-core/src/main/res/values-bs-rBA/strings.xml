@@ -178,7 +178,7 @@ Postavite lozinku, PIN ili obrazac za zaključavanje ekrana."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging je pružalac push obavještenja koji koriste mnoge aplikacije trećih strana. Da biste ga koristili, morate omogućiti registraciju uređaja.</string>
     <string name="pref_gcm_confirm_new_apps_title">Potvrdi nove aplikacije</string>
     <string name="pref_gcm_confirm_new_apps_summary">Pitaj prije registracije nove aplikacije za primanje push obavještenja</string>
-    <string name="pref_about_title">O MicroG RE</string>
+    <string name="pref_about_title">O microG</string>
     <string name="pref_hide_launcher_icon">Sakrij ikonu u pokretaču</string>
     <string name="hide_launcher_icon_dialog_message">Ako je omogućeno, MicroG će biti sakriven u pokretaču aplikacija. MicroG se može otvoriti iz informacija o aplikaciji koje se nalaze u sistemskom popisu aplikacija vašeg uređaja.</string>
     <string name="hide_launcher_icon_updating_title">Molimo pričekajte dok se aplikacija ažurira</string>
@@ -473,7 +473,7 @@ Neke aplikacije možda neće moći ponovo biti registrovane nakon ove radnje. Mo
     <string name="self_check_resolution_notifications">Dodirnite ovdje da otvorite postavke obavještenja. Obavještenja se koriste kako bi GcmService ostao pokrenut u pozadini kada je optimizacija baterije omogućena ili pod drugim uslovima</string>
     <string name="self_check_name_oem_restriction">Ograničenja procesa u pozadini</string>
     <string name="self_check_resolution_oem_restriction">Vaš sistem može ograničiti procese u pozadini. Dodirnite ovdje da otvorite stranicu Don\'t Kill My App! i saznate kako onemogućiti ova ograničenja</string>
-    <string name="morphe_sign_in_with_google_microg_label">Prijavite se putem Google-a preko MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Prijavite se putem Google-a preko microG</string>
     <string name="self_check_patched_app_installed">Pokreće se sa %1$s</string>
     <string name="self_check_action_download_morphe">Preuzmi Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

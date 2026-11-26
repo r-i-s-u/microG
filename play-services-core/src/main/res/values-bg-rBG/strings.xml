@@ -181,7 +181,7 @@
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging е доставчик на push неюз, использования от много приложение. За да го използвате, трябва да активирате регистрацията на устройството.</string>
     <string name="pref_gcm_confirm_new_apps_title">Підтвердити нові програми</string>
     <string name="pref_gcm_confirm_new_apps_summary">Спросити перед реєстрацією нової програми для отримання push-повідомлень</string>
-    <string name="pref_about_title">Относно MicroG RE</string>
+    <string name="pref_about_title">Относно microG</string>
     <string name="pref_hide_launcher_icon">Скриване на иконата в стартера</string>
     <string name="hide_launcher_icon_dialog_message">Ако е активирано, MicroG ще бъде скрит в менюто с приложения. MicroG може да се отвори от информацията за приложението, която се намира в списъка със системни приложения на устройството.</string>
     <string name="hide_launcher_icon_updating_title">Моля, изчакайте, докато приложението бъде актуализирано</string>
@@ -478,7 +478,7 @@
     <string name="self_check_resolution_notifications">Натисніть тут, щоб відкрити налаштування повідомлень. Повідомлення використовуються для підтримки GcmService у фоновому режимі, коли активовано оптимізація батареї або в інших умовах</string>
     <string name="self_check_name_oem_restriction">Обмеження фонових процесів</string>
     <string name="self_check_resolution_oem_restriction">Вашата система може да ограничава фоновите процеси. Докоснете тук, за да отворите сайта Don\'t Kill My App! и научете как да деактивирате тези ограничения</string>
-    <string name="morphe_sign_in_with_google_microg_label">Вход с Google чрез MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Вход с Google чрез microG</string>
     <string name="self_check_patched_app_installed">Работи с %1$s</string>
     <string name="self_check_action_download_morphe">Завантажити Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

@@ -179,7 +179,7 @@ Nastavte si heslo, PIN alebo zámok obrazovky so vzorom."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging je poskytovateľ push notifikácií používaný mnohými aplikáciami tretích strán. Na jeho použitie musíte povoliť registráciu zariadenia.</string>
     <string name="pref_gcm_confirm_new_apps_title">Potvrdiť nové aplikácie</string>
     <string name="pref_gcm_confirm_new_apps_summary">Spýtať sa pred zaregistrovaním novej aplikácie na prijímanie notifikácií</string>
-    <string name="pref_about_title">O MicroG RE</string>
+    <string name="pref_about_title">O microG</string>
     <string name="pref_hide_launcher_icon">Skryť ikonu v spúšťači</string>
     <string name="hide_launcher_icon_dialog_message">Ak je povolené, MicroG bude skrytý v spúšťači aplikácií. MicroG je možné otvoriť z informácií o aplikácii v zozname systémových aplikácií zariadenia.</string>
     <string name="hide_launcher_icon_updating_title">Čakajte, kým sa aplikácia aktualizuje</string>
@@ -488,7 +488,7 @@ Ak chcete začať zdieľať svoju polohu, prejdite do Map Google alebo Family Li
     <string name="self_check_resolution_notifications">Ťuknite sem pre otvorenie nastavení upozornení. Upozornenia sa používajú na udržanie GcmService na pozadí, keď je povolená optimalizácia batérie alebo za iných podmienok</string>
     <string name="self_check_name_oem_restriction">Obmedzenia procesov na pozadí</string>
     <string name="self_check_resolution_oem_restriction">Váš systém môže obmedzovať procesy na pozadí. Klepnutím sem otvoríte stránku Don\'t Kill My App! a dozviete sa, ako tieto obmedzenia vypnúť</string>
-    <string name="morphe_sign_in_with_google_microg_label">Prihlásiť sa cez Google pomocou MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Prihlásiť sa cez Google pomocou microG</string>
     <string name="self_check_patched_app_installed">Beží na %1$s</string>
     <string name="self_check_action_download_morphe">Stiahnuť Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

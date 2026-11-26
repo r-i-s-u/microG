@@ -179,7 +179,7 @@ Hesabın qurulması tamamlandıqdan sonra Google cihaz qeydiyyatını qapada bil
     <string name="pref_gcm_enable_mcs_summary">Bulud Mesajlaşması çoxlu üçüncü tərəf tətbiqləri tərəfindən istifadə olunan təkan bildirişi təminatçısıdır. İstifadə etmək üçün cihaz qeydiyyatını aktiv etməlisiniz.</string>
     <string name="pref_gcm_confirm_new_apps_title">Yeni tətbiqləri təsdiqlə</string>
     <string name="pref_gcm_confirm_new_apps_summary">Təkan bildirişləri almaq üçün yeni tətbiqi qeydə almazdan əvvəl soruş</string>
-    <string name="pref_about_title">MicroG RE Haqqında</string>
+    <string name="pref_about_title">microG Haqqında</string>
     <string name="pref_hide_launcher_icon">Başlanğıcda simvolu gizlət</string>
     <string name="hide_launcher_icon_dialog_message">Aktiv edildikdə, MicroG tətbiq menyunuzda gizlədiləcək. MicroG cihaz sisteminizin tətbiq siyahısındakı tətbiq məlumatlarından açıla bilər.</string>
     <string name="hide_launcher_icon_updating_title">Xahiş olunur, tətbiq yenilənərkən gözlə</string>
@@ -474,7 +474,7 @@ Bəzi tətbiqlər bu proses sonrası təkrar qeydə alınmaya bilər. Tətbiqlə
     <string name="self_check_resolution_notifications">Bildiriş tənzimləmələrini açmaq üçün bura toxun. Bildirişlər, batareya optimallaşması işləkdirsə yaxud digər şərtlər altında GcmService-in fonda işləməsini saxlamaq üçün istifadə olunur.</string>
     <string name="self_check_name_oem_restriction">Fon prosesi məhdudiyyətləri</string>
     <string name="self_check_resolution_oem_restriction">Sisteminiz fon proseslərini məhdudlaşdıra bilər. \"Tətbiqimi Öldürməyin!\" saytını açmaq və bu məhdudiyyətləri necə bağlayacağınızı öyrənmək üçün bura toxunun</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE vasitəsilə Google ilə daxil olun</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG vasitəsilə Google ilə daxil olun</string>
     <string name="self_check_patched_app_installed">%1$s ilə işləyir</string>
     <string name="self_check_action_download_morphe">Morphe-ni Yüklə</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

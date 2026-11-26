@@ -179,7 +179,7 @@ Nastavte prosím heslo, PIN nebo obrazce na zámku."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging poskytuje push od notifikace, particularly používané múltiple aplikacemi. K použíe toho by povolit registraci zařízenia.</string>
     <string name="pref_gcm_confirm_new_apps_title">Potvrdit nové aplikace</string>
     <string name="pref_gcm_confirm_new_apps_summary">Zeptejte před registrací nové aplikace pro přijímání oznámení</string>
-    <string name="pref_about_title">O MicroG RE</string>
+    <string name="pref_about_title">O microG</string>
     <string name="pref_hide_launcher_icon">Skrýt ikonu ve spouštěči</string>
     <string name="hide_launcher_icon_dialog_message">Pokud povolíte, MicroG bude skryt v seznamu aplikací. MicroG lze otevřít z informací o aplikaci, které naleznete v seznamu systémových aplikací v zařízení.</string>
     <string name="hide_launcher_icon_updating_title">Počkejte prosím, probíhá aktualizace aplikace</string>
@@ -480,7 +480,7 @@ Některé aplikace nemohou být znovu registrované po této akci. Může být t
     <string name="self_check_resolution_notifications">Klikněte zde pro otevření nastavení oznámení. Oznámení jsou používána pro udržení GcmService v pozadí, když je aktivována optimalizace batérie nebo v jiných podmínkách</string>
     <string name="self_check_name_oem_restriction">Omezdlované omezení procesů v pozadí</string>
     <string name="self_check_resolution_oem_restriction">Váš systém může omezovat procesy na pozadí. Klepnutím zde otevřete web Don\'t Kill My App! a tozvíte, jak toto toto omezení zrušit.</string>
-    <string name="morphe_sign_in_with_google_microg_label">Přihlásit se přes Google pomocí MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Přihlásit se přes Google pomocí microG</string>
     <string name="self_check_patched_app_installed">Beží s %1$s</string>
     <string name="self_check_action_download_morphe">Stáhnout Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

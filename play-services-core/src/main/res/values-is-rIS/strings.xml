@@ -179,7 +179,7 @@ Vinsamlegast stilltu lykilorð, PIN eða mynsturlás á skjánum."</string>
     <string name="pref_gcm_enable_mcs_summary">Skýjaskilaboð eru veitandi ýtitilkynninga sem notuð er af mörgum þriðja aðila forritum. Til að nota það verður þú að virkja skráningu tækis.</string>
     <string name="pref_gcm_confirm_new_apps_title">Staðfesta ný forrit</string>
     <string name="pref_gcm_confirm_new_apps_summary">Spurja áður en forrit er skráð til að taka á móti ýta tilkynningum</string>
-    <string name="pref_about_title">Um MicroG RE</string>
+    <string name="pref_about_title">Um microG</string>
     <string name="pref_hide_launcher_icon">Fela táknið í ræsiforriti</string>
     <string name="hide_launcher_icon_dialog_message">Ef virkt er, verður MicroG falið í forritavalmyndinni þinni. Hægt er að opna MicroG úr forritaupplýsingum í kerfisforritalistanum á tækinu þínu.</string>
     <string name="hide_launcher_icon_updating_title">Bíddu aðeins meðan forritið er uppfært</string>
@@ -477,7 +477,7 @@ Sum forrit geta ekki skráð sig á nýtt eftir þennan aðgerð. Þú gætir þ
     <string name="self_check_resolution_notifications">Banka hér til að opna stillingar tilkynninga. Tilkynningar eru notaðar til að halda GcmService gangandi á bakgrunni þegar rafhlöðu sparnaður er virkaður eða undir öðrum aðstæðum</string>
     <string name="self_check_name_oem_restriction">Takmarkanir á bakgrunnsferlum</string>
     <string name="self_check_resolution_oem_restriction">Your system may restrict background processes. Tap here to open Don\'t Kill My App! site and learn how to disable these restrictions</string>
-    <string name="morphe_sign_in_with_google_microg_label">Skráðu þig inn með Google í gegnum MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Skráðu þig inn með Google í gegnum microG</string>
     <string name="self_check_patched_app_installed">Keyra með %1$s</string>
     <string name="self_check_action_download_morphe">Niðurhala Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

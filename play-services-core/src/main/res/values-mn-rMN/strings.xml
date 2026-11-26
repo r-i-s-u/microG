@@ -371,7 +371,7 @@
     <string name="pref_passkey_manager_transport_hybrid">Холимог</string>
     <string name="pref_passkey_manager_credential_id_format_internal">ID: %1$s</string>
     <string name="self_check_resolution_oem_restriction">Таны систем арын процессыг хязгаарлаж болзошгүй. Эдгээр хязгаарлалтыг хэрхэн идэвхгүй болгох талаар мэдэхийн тулд энд дарж \"Don\'t Kill My App!\" сайтыг нээнэ үү</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE-ээр дамжуулан Google-ээр нэвтрэх</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG-ээр дамжуулан Google-ээр нэвтрэх</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->
     <string name="abi_mismatch_title">Буруу архитектурын хувилбар суулгасан байна</string>
     <string name="abi_mismatch_message">"Энэхүү MicroG-RE хувилбар нь зөвхөн 64-bit (arm64) сангуудыг агуулсан боловч энэ төхөөрөмж нь 32-bit хэрэглэгчийн орчинд ажиллаж байна.

@@ -179,7 +179,7 @@
     <string name="pref_gcm_enable_mcs_summary">클라우드 메시징은 여러 서드파티 애플리케이션에서 사용하는 푸시 알림 제공자입니다. 사용하려면 기기 등록을 활성화해야 합니다.</string>
     <string name="pref_gcm_confirm_new_apps_title">새 앱 확인</string>
     <string name="pref_gcm_confirm_new_apps_summary">새 앱을 등록하기 전에 푸시 알림 수신 여부를 확인합니다</string>
-    <string name="pref_about_title">MicroG RE에 대한 정보</string>
+    <string name="pref_about_title">microG에 대한 정보</string>
     <string name="pref_hide_launcher_icon">런처에서 앱 아이콘 숨기기</string>
     <string name="hide_launcher_icon_dialog_message">이 기능이 활성화된 경우에 MicroG가 앱 런처에서 숨겨집니다. MicroG는 기기 시스템 앱 목록에 있는 앱 정보에서 열 수 있습니다.</string>
     <string name="hide_launcher_icon_updating_title">앱이 업데이트되는 동안 잠시 기다려 주세요</string>
@@ -476,7 +476,7 @@
     <string name="self_check_resolution_notifications">알림 설정을 열려면 여기를 탭하세요. 알림은 배터리 최적화가 활성화되었거나 다른 조건에서 GcmService가 백그라운드에서 실행되도록 유지하는 데 사용됩니다.</string>
     <string name="self_check_name_oem_restriction">백그라운드 프로세스 제한</string>
     <string name="self_check_resolution_oem_restriction">시스템에서 백그라운드 프로세스를 제한할 수 있습니다. 여기를 탭하여 Don\'t Kill My App! 사이트를 열고 이러한 제한을 해제하는 방법을 알아보세요.</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE를 통해 Google로 로그인</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG를 통해 Google로 로그인</string>
     <string name="self_check_patched_app_installed">\'%1$s\'로 실행하는 중</string>
     <string name="self_check_action_download_morphe">Morphe 다운로드</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

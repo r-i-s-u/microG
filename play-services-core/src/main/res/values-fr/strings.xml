@@ -67,7 +67,7 @@ Ceci peut prendre plusieurs minutes."</string>
     <string name="self_check_resolution_system_spoofs">Merci de consulter la documentation sur les éventuelles étapes nécessaires.</string>
     <string name="self_check_pkg_gms">Services microG</string>
     <string name="self_check_pkg_vending">Compagnon microG / Play Store</string>
-    <string name="self_check_pkg_gsf">Framework MicroG RE</string>
+    <string name="self_check_pkg_gsf">Framework microG</string>
     <string name="self_check_name_app_installed"><xliff:g example="F-Droid">%1$s</xliff:g> installé : </string>
     <string name="self_check_resolution_app_installed">Installez l’application <xliff:g example="F-Droid">%1$s</xliff:g> ou tout autre compatible. Merci de consulter la documentation pour obtenir la liste des applications compatibles.</string>
     <string name="self_check_name_correct_sig"><xliff:g example="F-Droid">%1$s</xliff:g> dispose de la bonne signature : </string>
@@ -92,7 +92,7 @@ Ceci peut prendre plusieurs minutes."</string>
     <string name="prefs_account_security">Connexion &amp; sécurité</string>
     <string name="pref_auth_trust_google_title">Faire confiance à Google pour les autorisations des applications</string>
     <string name="pref_auth_trust_google_summary">Si désactivé, l’utilisateur est interrogé avant que la demande d’autorisation d’une application soit envoyée à Google. Certaines applications échoueront à utiliser le compte Google si ceci est désactivé.</string>
-    <string name="pref_checkin_enable_summary">Enregistre votre terminal auprès des services Google et crée un identifiant unique. microG retire les identifiants autres que le nom de votre compte Google des informations d’enregistrement.</string>
+    <string name="pref_checkin_enable_summary">Enregistre votre terminal auprès des services Google et crée un identifiant unique. microGtire les identifiants autres que le nom de votre compte Google des informations d’enregistrement.</string>
     <string name="pref_more_settings">Plus</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging est un fournisseur de notifications poussées utilisé par beaucoup d’applications tierces. Pour l’utiliser vous devez activer l’enregistrement du terminal.</string>
     <string name="pref_gcm_heartbeat_title">Intervalle des signaux de présence Cloud Messaging</string>

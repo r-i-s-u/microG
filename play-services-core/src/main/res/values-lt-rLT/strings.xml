@@ -179,7 +179,7 @@ Nustatykite ekrano užraktą naudodami slaptažodį, PIN kodą arba šabloną."<
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging yra stumiamųjų pranešimų teikėjas, kurį naudoja daug trečiųjų šalių programų. Norėdami naudotis šia paslauga, turite įjungti įrenginio registraciją.</string>
     <string name="pref_gcm_confirm_new_apps_title">Patvirtinti naujas programėles</string>
     <string name="pref_gcm_confirm_new_apps_summary">Klausti prieš registruojant naują programėlę stumimo pranešimų gavimui</string>
-    <string name="pref_about_title">Apie MicroG RE</string>
+    <string name="pref_about_title">Apie microG</string>
     <string name="pref_hide_launcher_icon">Slėpti piktogramą programų sąraše</string>
     <string name="hide_launcher_icon_dialog_message">Jei įjungta, MicroG bus paslėptas programų sąraše. MicroG galima atidaryti iš programos informacijos, esančios įrenginio sistemos programų sąraše.</string>
     <string name="hide_launcher_icon_updating_title">Palaukite, kol programa atnaujinama</string>
@@ -476,7 +476,7 @@ Kai kurios programėlės po šio veiksmo gali nebegalėti registruotis. Prieš s
     <string name="self_check_resolution_notifications">Bakstelėkite čia, kad atidarytumėte pranešimų nustatymus. Pranešimai naudojami, kad „GcmService“ veiktų fonine režimu, kai įjungta baterijos optimizavimas arba kitomis sąlygomis</string>
     <string name="self_check_name_oem_restriction">Foninių procesų apribojimai</string>
     <string name="self_check_resolution_oem_restriction">Jūsų sistema gali apriboti foninius procesus. Bakstelėkite čia, kad atidarytumėte svetainę „Don\'t Kill My App!“ ir sužinotumėte, kaip išjungti šiuos apribojimus</string>
-    <string name="morphe_sign_in_with_google_microg_label">Prisijunkite su „Google“ per „MicroG RE“</string>
+    <string name="morphe_sign_in_with_google_microg_label">Prisijunkite su „Google“ per „microG“</string>
     <string name="self_check_patched_app_installed">Veikia su %1$s</string>
     <string name="self_check_action_download_morphe">Atsisiųsti „Morphe“</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

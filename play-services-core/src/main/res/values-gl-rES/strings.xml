@@ -179,7 +179,7 @@ Configura un contrasinal, un PIN ou un patrón de bloqueo de pantalla."</string>
     <string name="pref_gcm_enable_mcs_summary">A mensaxería na nube é un provedor de notificacións push empregado por moitas aplicacións de terceiros. Para usalo debe activar o rexistro do dispositivo.</string>
     <string name="pref_gcm_confirm_new_apps_title">Confirmar novas aplicacións</string>
     <string name="pref_gcm_confirm_new_apps_summary">Preguntar antes de rexistrar unha nova aplicación para recibir notificacións push</string>
-    <string name="pref_about_title">Acerca de MicroG RE</string>
+    <string name="pref_about_title">Acerca de microG</string>
     <string name="pref_hide_launcher_icon">Ocultar icona no lanzador</string>
     <string name="hide_launcher_icon_dialog_message">Se está activado, MicroG estará oculto no lanzador de aplicacións. MicroG pode abrirse desde a información da aplicación que se atopa na lista de aplicacións do sistema do dispositivo.</string>
     <string name="hide_launcher_icon_updating_title">Agarda mentres se actualiza a aplicación</string>
@@ -476,7 +476,7 @@ a configuración pode intentar conectarse a Google para permitir a descarga de a
     <string name="self_check_resolution_notifications">Toque aquí para abrir os axustes de notificación. As notificacións son empregadas para manter GcmService en execución en segundo plano cando a optimización de batería é activada ou baixo outras condicións</string>
     <string name="self_check_name_oem_restriction">Restricións de procesos en segundo plano</string>
     <string name="self_check_resolution_oem_restriction">O seu sistema podería restrinxir os procesos en segundo plano. Toque aquí para abrir o sitio Don\'t Kill My App! e aprender como desactivar estas restricións</string>
-    <string name="morphe_sign_in_with_google_microg_label">Iniciar sesión con Google a través de MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Iniciar sesión con Google a través de microG</string>
     <string name="self_check_patched_app_installed">Executando con %1$s</string>
     <string name="self_check_action_download_morphe">Descargar Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

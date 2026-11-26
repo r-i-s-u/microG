@@ -486,7 +486,7 @@
     <string name="self_check_resolution_notifications">নোটিফিকেশনগুলি চালু করতে, ডিভাইসের ব্যাটারি অপ্টিমাইজেশনকে অক্ষরিক করুন</string>
     <string name="self_check_name_oem_restriction">সিস্টেম স্পুফিং সিগনচার সমর্থন</string>
     <string name="self_check_resolution_oem_restriction">আপনার সিস্টেম ব্যাকগ্রাউন্ড প্রসেস সীমাবদ্ধ করতে পারে। Don\'t Kill My App! সাইট খুলতে এখানে ট্যাপ করুন এবং কীভাবে এই সীমাবদ্ধতাগুলি নিষ্ক্রিয় করা যায় তা শিখুন।</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE এর মাধ্যমে Google দিয়ে সাইন ইন করুন</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG এর মাধ্যমে Google দিয়ে সাইন ইন করুন</string>
     <string name="self_check_patched_app_installed">%1$S-এ রানিং</string>
     <string name="self_check_action_download_morphe">ডাউনলোড মর্ফে</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

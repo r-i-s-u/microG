@@ -179,7 +179,7 @@ Seadista parooliga, PIN-koodiga või mustriga ekraanilukk."</string>
     <string name="pref_gcm_enable_mcs_summary">Pilvsõnumside on tõukemärguannete teenusepakkuja, mida kasutavad paljud kolmandate osapoolte rakendused. Selle kasutamiseks pead lubama seadme registreerimise.</string>
     <string name="pref_gcm_confirm_new_apps_title">Kinnita uued rakendused</string>
     <string name="pref_gcm_confirm_new_apps_summary">Küsi enne uue rakenduse registreerimist tõukemärguannete vastuvõtmiseks</string>
-    <string name="pref_about_title">MicroG RE kohta</string>
+    <string name="pref_about_title">microG kohta</string>
     <string name="pref_hide_launcher_icon">Peida ikoon käivitajast</string>
     <string name="hide_launcher_icon_dialog_message">Kui see on lubatud, peidetakse microG sinu rakenduste käivitajas. microG-d saab avada sinu seadme süsteemirakenduste loendis olevast rakenduse teabest.</string>
     <string name="hide_launcher_icon_updating_title">Palun oodata, kuni rakendust uuendatakse</string>
@@ -475,7 +475,7 @@ Mõned rakendused ei saa pärast seda tegevust uuesti registreeruda. Enne uut re
     <string name="self_check_resolution_notifications">Puudutage siia, et avada teavituste seaded. Teavitusi kasutatakse GcmService\'i taustamil tööletamiseks, kui akkumahavõrdimine on aktiveeritud või muude tingimuste korral</string>
     <string name="self_check_name_oem_restriction">Taustaprotsesside piirangud</string>
     <string name="self_check_resolution_oem_restriction">Teie süsteem võib piirata taustaprotsesse. Puudutage siid, et avada leht Don\'t Kill My App! ja saada teada, kuidas need piirangud keelata</string>
-    <string name="morphe_sign_in_with_google_microg_label">Logi sisse Googleiga läbi MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Logi sisse Googleiga läbi microG</string>
     <string name="self_check_patched_app_installed">Käib %1$s-iga</string>
     <string name="self_check_action_download_morphe">Laadi alla Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

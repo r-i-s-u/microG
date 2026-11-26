@@ -477,7 +477,7 @@ Einige Apps können danach möglicherweise nicht erneut registriert werden. Sie 
     <string name="self_check_resolution_notifications">Tippe hier, um die Benachrichtigungseinstellungen zu öffnen. Benachrichtigungen werden verwendet, um GcmService im Hintergrund laufen zu lassen, wenn die Akkuoptimierung aktiviert ist oder unter anderen Bedingungen</string>
     <string name="self_check_name_oem_restriction">Hintergrundeinschränkungen des Prozesses </string>
     <string name="self_check_resolution_oem_restriction">Ihr System kann Hintergrundprozesse einschränken. Tippen Sie hier, um die Website Don\'t Kill My App! zu öffnen und erfahren Sie, wie Sie diese Einschränkungen deaktivieren können</string>
-    <string name="morphe_sign_in_with_google_microg_label">Mit Google über MicroG RE anmelden</string>
+    <string name="morphe_sign_in_with_google_microg_label">Mit Google über microG anmelden</string>
     <string name="self_check_patched_app_installed">Läuft mit %1$s</string>
     <string name="self_check_action_download_morphe">Morphe herunterladen</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

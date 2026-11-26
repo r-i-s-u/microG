@@ -140,7 +140,7 @@ Configure uma senha, PIN ou padrão de bloqueio de tela."</string>
     <string name="pref_auth_two_step_verification_summary">Quando ativado, o dispositivo pode receber solicitações de verificação em duas etapas do Google (Cloud Messaging é necessário).</string>
     <string name="pref_auth_allow_find_devices_title">Permitir responder ao Localizador de Dispositivos do Google</string>
     <string name="pref_auth_allow_find_devices_summary">Quando ativado, o dispositivo pode responder às notificações do Encontre Meu Dispositivo do Google (Cloud Messaging é necessário).</string>
-    <string name="pref_checkin_enable_summary">Registra seu dispositivo nos serviços do Google e cria um identificador exclusivo de dispositivo. O microG remove informações de identificação além do nome da sua conta do Google dos dados de registro.</string>
+    <string name="pref_checkin_enable_summary">Registra seu dispositivo nos serviços do Google e cria um identificador exclusivo de dispositivo. O microGmove informações de identificação além do nome da sua conta do Google dos dados de registro.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
     <string name="checkin_not_registered">Não registrado</string>
     <string name="checkin_last_registration">Último registro: <xliff:g example="Yesterday, 02:20 PM">%1$s</xliff:g></string>
@@ -179,7 +179,7 @@ Configure uma senha, PIN ou padrão de bloqueio de tela."</string>
     <string name="pref_gcm_enable_mcs_summary">O Cloud Messaging é um provedor de notificações push usado por muitos aplicativos de terceiros. Para usá-lo, você deve ativar o registro do dispositivo.</string>
     <string name="pref_gcm_confirm_new_apps_title">Confirmar novos aplicativos</string>
     <string name="pref_gcm_confirm_new_apps_summary">Perguntar antes de registrar um novo aplicativo para receber notificações push</string>
-    <string name="pref_about_title">Sobre o MicroG RE</string>
+    <string name="pref_about_title">Sobre o microG</string>
     <string name="pref_hide_launcher_icon">Ocultar ícone do launcher</string>
     <string name="hide_launcher_icon_dialog_message">Se ativado, MicroG será ocultado no seu launcher de aplicativos. MicroG pode ser aberto a partir das informações do aplicativo encontradas na lista de aplicativos do sistema do seu dispositivo.</string>
     <string name="hide_launcher_icon_updating_title">Por favor, aguarde enquanto o aplicativo é atualizado.</string>
@@ -486,7 +486,7 @@ As pessoas com quem você compartilha continuarão vendo sua última localizaç�
     <string name="self_check_resolution_notifications">Toque aqui para abrir as configurações de notificações. As notificações são usadas para manter o GcmService em execução em segundo plano quando a otimização da bateria estiver ativada ou em outras condições</string>
     <string name="self_check_name_oem_restriction">Restrições de processo em segundo plano</string>
     <string name="self_check_resolution_oem_restriction">Seu sistema pode restringir processos em segundo plano. Toque aqui para abrir o site Don\'t Kill My App! e saiba como desativar essas restrições</string>
-    <string name="morphe_sign_in_with_google_microg_label">Entrar com o Google via MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Entrar com o Google via microG</string>
     <string name="self_check_patched_app_installed">Executando com %1$s</string>
     <string name="self_check_action_download_morphe">Baixar Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

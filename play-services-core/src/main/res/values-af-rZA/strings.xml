@@ -179,7 +179,7 @@ Stel asseblief 'n wagkord, PIN of patroonslot op."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging is a push-literaar per by deur totale dees party toepassings. Om dit te gebruik, moet jy toestetime. aktif</string>
     <string name="pref_gcm_confirm_new_apps_title">Bevestig nuwe toepassings</string>
     <string name="pref_gcm_confirm_new_apps_summary">Vra voor die registrasie van \'n nuwe app om stootkennisgewings te ontvang</string>
-    <string name="pref_about_title">Oor MicroG RE</string>
+    <string name="pref_about_title">Oor microG</string>
     <string name="pref_hide_launcher_icon">Verberg ikoon in launcher</string>
     <string name="hide_launcher_icon_dialog_message">Indien geaktiveer, sal MicroG in jou toepassingslaaier versteek word. MicroG kan geopen word vanaf die toep-inligting in jou toestel se stelseltoep-lys.</string>
     <string name="hide_launcher_icon_updating_title">Wag asseblief terwyl die toep opgedateer word.</string>
@@ -479,7 +479,7 @@ Sommige programme kan nie na hierdie aksie weer registreer nie. Jy moet moontlik
     <string name="self_check_resolution_notifications">Tik hier om instellings vir kennisgewings te open. Kennisgewings word gebruik om GcmService in die agtergrond te hou wanneer batteryoptimalisering geaktiveer is of onder ander toestande</string>
     <string name="self_check_name_oem_restriction">Beperkings op agtergrondproses</string>
     <string name="self_check_resolution_oem_restriction">ID: %1$s</string>
-    <string name="morphe_sign_in_with_google_microg_label">Teken in met Google via MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Teken in met Google via microG</string>
     <string name="self_check_patched_app_installed">Loop met %1$s</string>
     <string name="self_check_action_download_morphe">Laai Morphe af</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

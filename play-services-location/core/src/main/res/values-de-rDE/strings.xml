@@ -31,7 +31,7 @@
     <string name="location_settings_dialog_message_details_start_paragraph">Ihr Gerät muss Folgendes tun:</string>
     <string name="location_settings_dialog_message_location_services_gps_and_nlp">GPS, WLAN, Mobilfunknetze und Sensoren verwenden</string>
     <string name="location_settings_dialog_message_grant_permissions">Standortberechtigungen an den microG-Dienst erteilen</string>
-    <string name="location_settings_dialog_message_gls_consent">Den microG-Standortdienst verwenden; im Rahmen dieses Dienstes kann microG regelmäßig Standortdaten sammeln und diese Daten anonym verwenden, um die Standortgenauigkeit und standortbezogene Dienste zu verbessern.</string>
+    <string name="location_settings_dialog_message_gls_consent">Den microG-Standortdienst verwenden; im Rahmen dieses Dienstes kann microGgelmäßig Standortdaten sammeln und diese Daten anonym verwenden, um die Standortgenauigkeit und standortbezogene Dienste zu verbessern.</string>
     <string name="location_settings_dialog_message_details_end_paragraph">Details finden Sie in den Standorteinstellungen.</string>
     <string name="location_settings_dialog_btn_cancel">Nein danke</string>
     <string name="location_settings_dialog_btn_sure">OK</string>

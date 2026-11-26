@@ -389,7 +389,7 @@ iestatīšanas process var mēģināt savienoties ar Google, lai iespējotu liet
     <string name="pref_passkey_manager_transport_hybrid">Hibrīds</string>
     <string name="pref_passkey_manager_credential_id_format_internal">ID: %1$s</string>
     <string name="self_check_resolution_oem_restriction">Jūsu sistēma var ierobežot fona procesus. Pieskarieties šeit, lai atvērtu vietni Don\'t Kill My App! un uzzinātu, kā izslēgt šos ierobežojumus</string>
-    <string name="morphe_sign_in_with_google_microg_label">Pierakstīties ar Google, izmantojot MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Pierakstīties ar Google, izmantojot microG</string>
     <string name="self_check_action_download_morphe">Lejupielādēt Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->
     <string name="abi_mismatch_title">Instalēts nepareizs arhitektūras variants</string>

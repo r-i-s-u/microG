@@ -181,7 +181,7 @@
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging হৈছে এটা পুছ নোটিফিকেচন প্ৰদানকাৰী যিটো বহুতো তৃতীয় পক্ষৰ এপ্লিকেচনৰ দ্বাৰা ব্যৱহাৰ কৰা হয়। ইয়াক ব্যৱহাৰ কৰিবলৈ আপুনি ডিভাইচ ৰেজিষ্ট্ৰেচন সক্ৰিয় কৰিব লাগিব।</string>
     <string name="pref_gcm_confirm_new_apps_title">নতুন এপসমূহ নিশ্চিত কৰক</string>
     <string name="pref_gcm_confirm_new_apps_summary">পুছ নোটিফিকেচন লাভ কৰিবলৈ নতুন এপ ৰিজীষ্ট্ৰ কৰাৰ আগতে সুধক</string>
-    <string name="pref_about_title">MicroG RE ৰ বিষয়ে</string>
+    <string name="pref_about_title">microG ৰ বিষয়ে</string>
     <string name="pref_hide_launcher_icon">লনচৰত আইকনটো লুকুৱাই ৰাখক</string>
     <string name="hide_launcher_icon_dialog_message">সক্ৰিয় কৰিলে, আপোনাৰ এপ লঞ্চাৰত MicroG লুকাই থাকিব। আপোনাৰ ডিভাইচৰ চিষ্টেম এপ তালিকাৰ এপ ইনফোৰ পৰা MicroG খোলাৰ পৰিবৰ্তে।</string>
     <string name="hide_launcher_icon_updating_title">এপটো আপডেট হোৱালৈ অনুগ্ৰহ কৰি অপেক্ষা কৰক</string>
@@ -478,7 +478,7 @@
     <string name="self_check_resolution_notifications">নটিফিকেচন ছেটিংছ খুলিবলৈ ইয়াত টেপ কৰক। যেতিয়া বেটাৰী অপ্টিমাইজেশ্যন সক্ৰিয় থাকে বা অন্যান্য পৰিস্থিতিত GcmService ব্যাকগ্ৰাউণ্ডত চলি থাকিবলৈ নটিফিকেচন ব্যৱহাৰ কৰা হয়</string>
     <string name="self_check_name_oem_restriction">ব্যাকগ্ৰাউণ্ড প্ৰক্ৰিয়াৰ সীমাবদ্ধতা</string>
     <string name="self_check_resolution_oem_restriction">আপোনাৰ চিষ্টেমে বেকগ্ৰাউণ্ড প্ৰক্ৰিয়াসমূহ সীমিত কৰিব পাৰে। Don\'t Kill My App! চাইটটো খুলিবলৈ আৰু এই সীমাবদ্ধতাসমূহ কেনেকৈ বন্ধ কৰিব লাগে জানিবলৈ ইয়াত টেপ কৰক</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE-ৰ জৰিয়তে Google-ৰ সৈতে ছাইন ইন কৰক</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG-ৰ জৰিয়তে Google-ৰ সৈতে ছাইন ইন কৰক</string>
     <string name="self_check_patched_app_installed">%1$s ৰ সৈতে চলি আছে</string>
     <string name="self_check_action_download_morphe">Morphe ডাউনলোড কৰক</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

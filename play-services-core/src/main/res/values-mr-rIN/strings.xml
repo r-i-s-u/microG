@@ -147,7 +147,7 @@
     <string name="prefcat_authentication">प्रमाणीकरण</string>
     <string name="pref_add_account_summary">Google खाते जोडा</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging हा एक पुश नोटिफिकेशन प्रोव्हायडर आहे जो अनेक थर्ड-पार्टी ॲप्लिकेशन्सद्वारे वापरला जातो. याचा वापर करण्यासाठी तुम्ही डिव्हाइस नोंदणी सक्षम करणे आवश्यक आहे.</string>
-    <string name="pref_about_title">MicroG RE बद्दल</string>
+    <string name="pref_about_title">microG बद्दल</string>
     <string name="pref_hide_launcher_icon">लाँचरमध्ये आयकॉन लपवा</string>
     <string name="hide_launcher_icon_dialog_message">सक्षम केल्यास, MicroG तुमच्या ॲप लॉन्चरमध्ये लपवले जाईल. तुमच्या डिव्हाइसच्या सिस्टम ॲप सूचीमधील ॲप माहितीमधून MicroG उघडता येईल.</string>
     <string name="hide_launcher_icon_updating_title">ॲप अपडेट होत असताना कृपया प्रतीक्षा करा</string>
@@ -420,7 +420,7 @@
     <string name="self_check_source_morphe">Morphe पॅचेस</string>
     <string name="self_check_source_alternative">पर्यायी पॅचेस</string>
     <string name="self_check_resolution_oem_restriction">तुमची सिस्टिम बॅकग्राउंड प्रक्रिया प्रतिबंधित करू शकते. \'Don\'t Kill My App!\' साइट उघडण्यासाठी आणि हे निर्बंध कसे काढायचे हे जाणून घेण्यासाठी येथे टॅप करा</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE द्वारे Google सह साइन इन करा</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG द्वारे Google सह साइन इन करा</string>
     <string name="self_check_action_download_morphe">Morphe डाउनलोड करा</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->
     <string name="abi_mismatch_title">चुकीचे आर्किटेक्चर व्हेरिएंट इंस्टॉल केले आहे</string>

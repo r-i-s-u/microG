@@ -179,7 +179,7 @@
     <string name="pref_gcm_enable_mcs_summary">پیام‌رسانی ابری یک ارائه‌دهندهٔ اعلان فشاری است که بسیاری از برنامه‌های شخص ثالث از آن استفاده می‌کنند. برای استفاده از آن باید ثبت دستگاه را فعال کنید.</string>
     <string name="pref_gcm_confirm_new_apps_title">تأیید برنامه‌های جدید</string>
     <string name="pref_gcm_confirm_new_apps_summary">پیش از ثبت برنامهٔ جدید برای دریافت اعلان‌های فشاری سؤال شود</string>
-    <string name="pref_about_title">دربارهٔ MicroG RE</string>
+    <string name="pref_about_title">دربارهٔ microG</string>
     <string name="pref_hide_launcher_icon">پنهان‌کردن آیکون در لانچر</string>
     <string name="hide_launcher_icon_dialog_message">اگر فعال باشد، MicroG در لانچر برنامه‌های شما پنهان می‌شود. می‌توانید MicroG را از اطلاعات برنامه در فهرست برنامه‌های سیستمی دستگاه باز کنید.</string>
     <string name="hide_launcher_icon_updating_title">لطفاً تا به‌روزرسانی برنامه صبر کنید</string>
@@ -476,7 +476,7 @@
     <string name="self_check_resolution_notifications">برای باز کردن تنظیمات اعلان اینجا را لمس کنید. اعلان‌ها برای اجرای GcmService در پس‌زمینه استفاده می‌شوند، به‌ویژه زمانی که بهینه‌سازی باتری فعال است یا در شرایط دیگر.</string>
     <string name="self_check_name_oem_restriction">محدودیت‌های پردازش پس‌زمینه</string>
     <string name="self_check_resolution_oem_restriction">ممکن است سیستم شما فرایندهای پس‌زمینه را محدود کند. برای بازکردن وب‌سایت Don’t Kill My App! و یادگیری نحوهٔ غیرفعال‌کردن این محدودیت‌ها، اینجا ضربه بزنید</string>
-    <string name="morphe_sign_in_with_google_microg_label">ورود با Google از طریق MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">ورود با Google از طریق microG</string>
     <string name="self_check_patched_app_installed">در حال اجرا با %1$s</string>
     <string name="self_check_action_download_morphe">دانلود Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

@@ -179,7 +179,7 @@ Vă rugăm să configurați o parolă, un PIN sau un model de blocare."</string>
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging este un furnizor de notificări push utilizat de multe aplicații terțe. Pentru a-l utiliza, trebuie să activați înregistrarea dispozitivului.</string>
     <string name="pref_gcm_confirm_new_apps_title">Confirmă aplicații noi</string>
     <string name="pref_gcm_confirm_new_apps_summary">Pergăteți înainte de a înregistra o aplicație nouă pentru a primi notificări push</string>
-    <string name="pref_about_title">Despre MicroG RE</string>
+    <string name="pref_about_title">Despre microG</string>
     <string name="pref_hide_launcher_icon">Ascunde pictograma din lansator</string>
     <string name="hide_launcher_icon_dialog_message">Dacă este activată, MicroG va fi ascuns din lansatorul de aplicații. MicroG poate fi deschis din informațiile aplicației găsite în lista de aplicații de sistem a dispozitivului.</string>
     <string name="hide_launcher_icon_updating_title">Te rugăm să aștepți în timp ce aplicația este actualizată</string>
@@ -476,7 +476,7 @@ Unele aplicații pot nu mai putea fi înregistrate din nou după această acțiu
     <string name="self_check_resolution_notifications">Apăsați aici pentru a deschide setările de notificări. Notificările sunt utilizate pentru a menține GcmService activ în fundal când optimizarea bateriei este activă sau în alte condiții</string>
     <string name="self_check_name_oem_restriction">Restricții de procese de fundal</string>
     <string name="self_check_resolution_oem_restriction">Sistemul dvs. poate restricționa procesele de fundal. Atingeți aici pentru a deschide site-ul Don\'t Kill My App! și a afla cum să dezactivați aceste restricții</string>
-    <string name="morphe_sign_in_with_google_microg_label">Conectează-te cu Google prin MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Conectează-te cu Google prin microG</string>
     <string name="self_check_patched_app_installed">Funcționează cu %1$s</string>
     <string name="self_check_action_download_morphe">Descărcați Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

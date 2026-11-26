@@ -179,7 +179,7 @@ Lütfen bir parola, PIN veya desen ekran kilidi ayarlayın."</string>
     <string name="pref_gcm_enable_mcs_summary">Bulut Mesajlaşma, birçok üçüncü taraf uygulama tarafından kullanılan bir push bildirim sağlayıcısıdır. Kullanmak için cihaz kaydını etkinleştirmelisiniz.</string>
     <string name="pref_gcm_confirm_new_apps_title">Yeni uygulamaları onayla</string>
     <string name="pref_gcm_confirm_new_apps_summary">Anlık bildirimler almak için yeni bir uygulama kaydederken izin isteyin</string>
-    <string name="pref_about_title">MicroG RE hakkında</string>
+    <string name="pref_about_title">microG hakkında</string>
     <string name="pref_hide_launcher_icon"> Launcher\'da simgeyi gizle</string>
     <string name="hide_launcher_icon_dialog_message">Etkinleştirilirse MicroG, uygulama başlatıcınızda gizlenir. MicroG, cihazınızın sistem uygulama listesindeki uygulama bilgilerinden açılabılir.</string>
     <string name="hide_launcher_icon_updating_title">Uygulama güncellenirken lütfen bekleyin</string>
@@ -474,7 +474,7 @@ Bazı uygulamalar bu işlemden sonra tekrar kayıt olamayabilir. Bu uygulamalar�
     <string name="self_check_resolution_notifications">Bildirim ayarlarını açmak için buraya dokunun. Bildirimler, pil optimizasyonu etkinleştirildiğinde veya diğer koşullar altında GcmService\'in arka planda çalışmaya devam etmesini sağlamak için kullanılır</string>
     <string name="self_check_name_oem_restriction">Arka plan işlem kısıtlamaları</string>
     <string name="self_check_resolution_oem_restriction">Sisteminiz arka plan işlemlerini kısıtlayabilir. Bu kısıtlamaları nasıl devre dışı bırakacağınızı öğrenmek için buraya dokunun ve Don\'t Kill My App! sitesini açın</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE üzerinden Google ile oturum açın</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG üzerinden Google ile oturum açın</string>
     <string name="self_check_patched_app_installed">%1$s ile çalışıyor</string>
     <string name="self_check_action_download_morphe">Morphe\'yi indirin</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

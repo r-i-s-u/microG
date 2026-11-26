@@ -178,7 +178,7 @@ Si us plau, configureu una contrasenya, un PIN o un patró de bloqueig de pantal
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging és un proveïdor de notificacions push utilitzat per moltes aplicacions de tercers. Per utilitzar-lo, heu d\'activar el registre del dispositiu.</string>
     <string name="pref_gcm_confirm_new_apps_title">Confirma les noves apps</string>
     <string name="pref_gcm_confirm_new_apps_summary">Pregunta abans de registrar una nova app per rebre notificacions push</string>
-    <string name="pref_about_title">Sobre MicroG RE</string>
+    <string name="pref_about_title">Sobre microG</string>
     <string name="pref_hide_launcher_icon">Ocultar la icona al llançador</string>
     <string name="hide_launcher_icon_dialog_message">Si s\'activa, MicroG estarà ocult al llançador d\'aplicacions. MicroG es pot obrir des de la informació de l\'aplicació que es troba a la llista d\'aplicacions del sistema del dispositiu.</string>
     <string name="hide_launcher_icon_updating_title">Si us plau, espereu mentre s\'actualitza l\'aplicació</string>
@@ -472,7 +472,7 @@ Potser algunes aplicacions no puguin tornar a registrar-se després d'aquesta ac
     <string name="self_check_resolution_notifications">Toca aquí per obrir la configuració de notificacions. Les notificacions s\'utilitzen per mantenir GcmService funcionant en second pla quan l\'optimització de la bateria està activada o sota altres condicions</string>
     <string name="self_check_name_oem_restriction">Restriccions dels processos en second pla</string>
     <string name="self_check_resolution_oem_restriction">El vostre sistema pot restringir els processos en segon pla. Toqueu aquí per obrir el lloc Don\'t Kill My App! i aprendre com desactivar aquestes restriccions</string>
-    <string name="morphe_sign_in_with_google_microg_label">Inicia sessió amb Google via MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Inicia sessió amb Google via microG</string>
     <string name="self_check_patched_app_installed">S\'està executant amb %1$s</string>
     <string name="self_check_action_download_morphe">Descarrega Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

@@ -409,7 +409,7 @@ Sila tetapkan kata laluan, PIN, atau kunci corak skrin."</string>
     <string name="pref_passkey_manager_transport_hybrid">Hibrid</string>
     <string name="pref_passkey_manager_credential_id_format_internal">ID: %1$s</string>
     <string name="self_check_resolution_oem_restriction">Sistem anda mungkin menyekat proses latar belakang. Ketik di sini untuk membuka laman web Don\'t Kill My App! dan pelajari cara untuk menyahaktifkan sekatan ini</string>
-    <string name="morphe_sign_in_with_google_microg_label">Log masuk dengan Google melalui MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Log masuk dengan Google melalui microG</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->
     <string name="abi_mismatch_title">Varian seni bina yang salah dipasang</string>
     <string name="abi_mismatch_message">"Binaan MicroG-RE ini hanya mengandungi pustaka 64-bit (arm64), tetapi peranti ini menjalankan ruang pengguna 32-bit.

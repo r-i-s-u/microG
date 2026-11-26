@@ -179,7 +179,7 @@ Google-ის მოწყობილობის რეგისტრაც�
     <string name="pref_gcm_enable_mcs_summary">Cloud Messaging არის push შეტყობინებების პროვაიდერი, რომელსაც მრავალი მესამე მხარის აპლიკაცია იყენებს. მის გამოსაყენებლად თქვენ უნდა ჩართოთ მოწყობილობის რეგისტრაცია.</string>
     <string name="pref_gcm_confirm_new_apps_title">ახალი აპლიკაციების დადასტურება</string>
     <string name="pref_gcm_confirm_new_apps_summary">მოგიკითხოთ ახალი აპლიკაციის რეგისტრაციამდე push შეტყობინებების მისაღებად</string>
-    <string name="pref_about_title">MicroG RE-ს შესახებ</string>
+    <string name="pref_about_title">microG-ს შესახებ</string>
     <string name="pref_hide_launcher_icon">ხატულის დამალვა ლაუნჩერში</string>
     <string name="hide_launcher_icon_dialog_message">აქტიურების შემთხვევაში, MicroG დამალული იქნება თქვენს აპლიკაციების გამშვებში. MicroG-ის გახსნა შესაძლებელია მოწყობილობის სისტემური აპლიკაციების სიიდან, აპლიკაციის ინფორმაციის განყოფილებიდან.</string>
     <string name="hide_launcher_icon_updating_title">გთხოვთ, დაელოდოთ აპლიკაციის განახლებას</string>
@@ -480,7 +480,7 @@ Google-ის მოწყობილობის რეგისტრაც�
     <string name="self_check_resolution_notifications">დააჭირეთ აქ შეტყობინებების პარამეტრების გასახსნელად. შეტყობინებები გამოიყენება GcmService-ის ფონურ რეჟიმში მუშაობისთვის, როდესაც ჩართულია ელემენტის ოპტიმიზაცია ან სხვა პირობების დროს</string>
     <string name="self_check_name_oem_restriction">ფონური პროცესების შეზღუდვები</string>
     <string name="self_check_resolution_oem_restriction">თქვენმა სისტემამ შესაძლოა შეზღუდოს ფონური პროცესები. დააჭირეთ აქ, რათა გახსნათ საიტი Don\'t Kill My App! და გაიგოთ, როგორ გათიშოთ ეს შეზღუდვები</string>
-    <string name="morphe_sign_in_with_google_microg_label">შესვლა Google-ით MicroG RE-ს მეშვეობით</string>
+    <string name="morphe_sign_in_with_google_microg_label">შესვლა Google-ით microG-ს მეშვეობით</string>
     <string name="self_check_patched_app_installed">მუშაობს %1$s-ით</string>
     <string name="self_check_action_download_morphe">ჩამოტვირთეთ Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

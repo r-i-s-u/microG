@@ -127,7 +127,7 @@
     <string name="pref_auth_strip_device_name_summary">Ao ativar, solicitações de autenticação não incluirão o nome do dispositivo, o que pode permitir que dispositivos não permitidos conectem-se, mas pode ter consequências inesperadas.</string>
     <string name="pref_auth_two_step_verification_title">Receber pedidos de verificação de duas etapas</string>
     <string name="pref_auth_two_step_verification_summary">Ao ativar, o dispositivo pode receber pedidos de verificação de duas etapas do Google (Cloud Messaging é necessário).</string>
-    <string name="pref_checkin_enable_summary">Regista o seu dispositivo aos serviços do Google e cria um identificador de dispositivo único. O microG remove informações identificáveis dos dados do seu registo, exceto o nome da sua conta do Google.</string>
+    <string name="pref_checkin_enable_summary">Regista o seu dispositivo aos serviços do Google e cria um identificador de dispositivo único. O microGmove informações identificáveis dos dados do seu registo, exceto o nome da sua conta do Google.</string>
     <string name="pref_device_registration_android_id">ID do Android</string>
     <string name="checkin_not_registered">Não registado</string>
     <string name="checkin_last_registration">Último registo: <xliff:g example="Yesterday, 02:20 PM">%1$s</xliff:g></string>

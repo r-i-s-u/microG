@@ -179,7 +179,7 @@
     <string name="pref_gcm_enable_mcs_summary">雲端訊息是許多第三方應用程式使用的推播通知供應商。要使用它，您必須啟用裝置註冊。</string>
     <string name="pref_gcm_confirm_new_apps_title">確認新的應用程式</string>
     <string name="pref_gcm_confirm_new_apps_summary">在重新註冊應用程式以接收推播通知前詢問。</string>
-    <string name="pref_about_title">關於 MicroG RE</string>
+    <string name="pref_about_title">關於 microG</string>
     <string name="pref_hide_launcher_icon">隱藏啟動器圖示</string>
     <string name="hide_launcher_icon_dialog_message">若啟用，MicroG 將在應用程式啟動器中隱藏。可從裝置系統應用程式清單中的應用程式資訊開啟 MicroG。</string>
     <string name="hide_launcher_icon_updating_title">請稍候，應用程式正在更新</string>
@@ -481,7 +481,7 @@ microG 以「盡力而為」的基礎提供，無法保證行為完全符合預�
     <string name="self_check_resolution_notifications">點選此處開啟通知設定。通知用於在啟用電池最佳化時或其他情況下保持 GcmService 在後台執行。</string>
     <string name="self_check_name_oem_restriction">背景程式限制</string>
     <string name="self_check_resolution_oem_restriction">您的系統可能會限制背景程式。點擊此處開啟「Don\'t Kill My App!」網站並了解如何停用這些限制</string>
-    <string name="morphe_sign_in_with_google_microg_label">透過 MicroG RE 使用 Google 登入</string>
+    <string name="morphe_sign_in_with_google_microg_label">透過 microG 使用 Google 登入</string>
     <string name="self_check_patched_app_installed">使用 %1$s 執行</string>
     <string name="self_check_action_download_morphe">下載 Morphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

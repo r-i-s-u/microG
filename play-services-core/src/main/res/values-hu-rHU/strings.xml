@@ -180,7 +180,7 @@ A Google-eszközregisztrációt a fiókbeállítás befejezése után letilthatj
     <string name="pref_gcm_enable_mcs_summary">A Cloud Messaging egy leküldéses értesítési szolgáltató, amelyet sok harmadik féltől származó alkalmazás használ. Használatához engedélyeznie kell az eszközregisztrációt.</string>
     <string name="pref_gcm_confirm_new_apps_title">Új alkalmazások megerősítése</string>
     <string name="pref_gcm_confirm_new_apps_summary">Kérdezzen rá, mielőtt új alkalmazást regisztrálna a push értesítések fogadásához</string>
-    <string name="pref_about_title">A MicroG RE-ről</string>
+    <string name="pref_about_title">A microG-ről</string>
     <string name="pref_hide_launcher_icon">Ikon elrejtése az indítóban</string>
     <string name="hide_launcher_icon_dialog_message">Ha engedélyezve van, a MicroG elrejtőzik az alkalmazásindítóban. A MicroG az eszköz rendszeralkalmazás-listájában található alkalmazásinformációkból nyitható meg.</string>
     <string name="hide_launcher_icon_updating_title">Kérjük, várj, amíg az alkalmazás frissül</string>
@@ -479,7 +479,7 @@ Egyes alkalmazások nem tudnak újraregisztrálni a műveletet követően. Ezekn
     <string name="self_check_resolution_notifications">Koppintson ide az értesítési beállítások megnyitásához. Az értesítések arra szolgálnak, hogy a GcmService az akkumulátoroptimalizálás engedélyezése esetén vagy más körülmények között is háttérben futhasson.</string>
     <string name="self_check_name_oem_restriction">Háttérfolyamat-korlátozás</string>
     <string name="self_check_resolution_oem_restriction">A rendszer korlátozhatja a háttérfolyamatokat. Koppintson ide a Don\'t Kill My App! webhely megnyitásához, és a korlátozások letiltásának megismeréséhez.</string>
-    <string name="morphe_sign_in_with_google_microg_label">Bejelentkezés a Google-lel MicroG RE-n keresztül</string>
+    <string name="morphe_sign_in_with_google_microg_label">Bejelentkezés a Google-lel microG-n keresztül</string>
     <string name="self_check_patched_app_installed">Ezzel fut: %1$s</string>
     <string name="self_check_action_download_morphe">Morphe letöltése</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

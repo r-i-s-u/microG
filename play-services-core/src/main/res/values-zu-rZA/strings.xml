@@ -180,7 +180,7 @@ other:Buyiselwe ama-akhawunti %1$d</string>
     <string name="pref_gcm_enable_mcs_summary">I-Cloud Messaging ngumhlinzeki wezaziso zokuphusha osetshenziswa izinhlelo eziningi zangaphandle. Ukuze ukusebenzise, kumele uvule ukubhalisa kwedivayisi.</string>
     <string name="pref_gcm_confirm_new_apps_title">Qinisekisa izinhlelo ezintsha</string>
     <string name="pref_gcm_confirm_new_apps_summary">Buza ngaphambi kokubhalisa uhlelo olusha ukuze luthole izaziso ze-push</string>
-    <string name="pref_about_title">Mayelana ne-MicroG RE</string>
+    <string name="pref_about_title">Mayelana ne-microG</string>
     <string name="pref_hide_launcher_icon">Fihla i-icon ku-launcher</string>
     <string name="hide_launcher_icon_dialog_message">Uma ikhishwe, i-MicroG izofihla ku-app launcher yakho. I-MicroG ingavulwa ku-app info etholakala ohlwini lwe-system app lwedivayisi yakho.</string>
     <string name="hide_launcher_icon_updating_title">Sicela ulinde ngenkathi uhlelo luvuselelwa</string>
@@ -475,7 +475,7 @@ Ezinye izinhlelo zingase zingakwazi ukubhalisa futhi ngemuva kwalesi senzo. Kung
     <string name="self_check_resolution_notifications">Thinta lapha ukuze uvule izilungiselelo zezaziso. Izaziso zisetshenziswa ukuze iGcmService iqhubeke isebenza ngemuva lapho ukulungiswa kwebhethri kuvunyelwe noma ngaphansi kwezinye izimo</string>
     <string name="self_check_name_oem_restriction">Izinketho zokuvimbela inqubo yangemuva</string>
     <string name="self_check_resolution_oem_restriction">Uhlelo lwakho lungase luvinyele izinhlelo ezisebenza ngemuva. Chofoza lapha ukuze uvule isayithi ye-Don\'t Kill My App! futhi ufunde ukuthi ungazikhansela kanjani lezi zvimbelo</string>
-    <string name="morphe_sign_in_with_google_microg_label">Ngena nge-Google usebenzisa i-MicroG RE</string>
+    <string name="morphe_sign_in_with_google_microg_label">Ngena nge-Google usebenzisa i-microG</string>
     <string name="self_check_patched_app_installed">Sisebenza nge-%1$s</string>
     <string name="self_check_action_download_morphe">Landa iMorphe</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->

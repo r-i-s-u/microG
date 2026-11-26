@@ -474,7 +474,7 @@
     <string name="self_check_resolution_notifications">यहाँ क्लिक करें और नोटिफिकेशन सेटिंग्स खोलें। नोटिफिकेशन गूगल सर्विस को रन करने के लिए आवश्यक है जब बैटरी ऑप्टिमाइज़ेशन सक्षम है या अन्य स्थितियों में</string>
     <string name="self_check_name_oem_restriction">सिस्टम साइनच्यूरिटी स्पोफ करता है</string>
     <string name="self_check_resolution_oem_restriction">आपकी प्रणाली पृष्ठभूमि प्रक्रियाओं को प्रतिबंधित कर सकती है। इन प्रतिबंधों को अक्षम करने के तरीके के बारे में जानने के लिए यहां Don\'t Kill My App! साइट खोलें टैप करें</string>
-    <string name="morphe_sign_in_with_google_microg_label">MicroG RE के माध्यम से Google से साइन इन करें</string>
+    <string name="morphe_sign_in_with_google_microg_label">microG के माध्यम से Google से साइन इन करें</string>
     <string name="self_check_patched_app_installed">%1$s स्थापित किया गया है</string>
     <string name="self_check_action_download_morphe">मोरफे डाउनलोड करें</string>
     <!-- ABI mismatch: arm64 APK on 32-bit userspace -->
